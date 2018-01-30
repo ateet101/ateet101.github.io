@@ -91,7 +91,7 @@
     vertical-align: middle;
 line-height:30px;
   float: left;
-  top: 50%;
+  top: 80%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
