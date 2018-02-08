@@ -90,12 +90,8 @@
     font-family: 'Satisfy', sans-serif;
     text-align: center;
     vertical-align: middle;
-line-height:30px;
-  top: 60%;
-  left: 15%;
-  transform: translate(-50%, -50%);
+    display: inline-block;
+    line-height: 25px;
 }
-}
-
 
 
