@@ -93,5 +93,16 @@
     display: inline-block;
     line-height: 25px;
 }
+#history{
+    padding: 15px;
 
+    color: #191970;
+    position: relative;
+    font-size: 14px;
+    font-family: 'Satisfy', sans-serif;
+    text-align: left;
+    vertical-align: middle;
+    display: inline-block;
+    line-height: 25px;
+}
 
